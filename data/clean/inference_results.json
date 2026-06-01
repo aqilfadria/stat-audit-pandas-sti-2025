@@ -1,0 +1,18 @@
+{
+  "theta_ci_wald": {
+    "lower": 0.645457,
+    "upper": 0.671743
+  },
+  "theta_ci_wilson": {
+    "lower": 0.645339,
+    "upper": 0.671617
+  },
+  "lambda_ci": {
+    "lower": 2.338462,
+    "upper": 2.429823
+  },
+  "theta_credible": {
+    "lower": 0.645337,
+    "upper": 0.671616
+  }
+}
