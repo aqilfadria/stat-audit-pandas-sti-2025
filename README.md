@@ -9,6 +9,8 @@
 |----------|--------------|
 | 01_eda.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/01_eda.ipynb) |
 | 02_estimation.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/02_estimation.ipynb) |
+| 03_inference.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/03_inference.ipynb) |
+| 04_hypothesis_testing.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/04_hypothesis_testing.ipynb) |
 
 ## Project Description
 
