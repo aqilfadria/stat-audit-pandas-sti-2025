@@ -11,6 +11,7 @@
 | 02_estimation.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/02_estimation.ipynb) |
 | 03_inference.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/03_inference.ipynb) |
 | 04_hypothesis_testing.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2025/blob/main/notebooks/04_hypothesis_testing.ipynb) |
+| 05_simulation.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqilfadria/stat-audit-pandas-sti-2026/blob/main/notebooks/05_simulation.ipynb) |
 
 ## Project Description
 
@@ -89,7 +90,26 @@ stat-audit-pandas-sti-2026/
 └── .gitignore
 ```
 ## Temuan Utama
-diisi setalah selesai menganalisis semua
+1. Probabilitas Pull Request Berhasil Di-merge
+Berdasarkan Bernoulli Maximum Likelihood Estimation (MLE), probabilitas sebuah pull request berhasil di-merge pada repository pandas-dev/pandas diperkirakan sebesar 65,86%. Dari 5.000 pull request yang dianalisis, sebanyak 3.293 berhasil di-merge dan 1.707 tidak di-merge. Hasil ini menunjukkan bahwa mayoritas kontribusi yang diajukan memiliki peluang yang cukup tinggi untuk diterima oleh maintainer repository.
+
+2. Confidence Interval Probabilitas Merge
+Analisis confidence interval menunjukkan bahwa probabilitas merge pull request berada pada rentang 64,53% hingga 67,16% dengan tingkat kepercayaan 95%. Rentang yang relatif sempit ini menunjukkan bahwa estimasi probabilitas merge cukup stabil dan memiliki tingkat ketidakpastian yang rendah.
+
+3. Aktivitas Diskusi pada Issue
+Analisis menggunakan distribusi Poisson menghasilkan estimasi rata-rata 2,38 komentar per issue. Temuan ini menunjukkan bahwa issue pada repository pandas-dev/pandas umumnya melibatkan diskusi aktif antara kontributor dan maintainer sebelum diselesaikan.
+
+4. Waktu Penyelesaian Issue Mengalami Perubahan Signifikan
+Hasil uji Mann-Whitney U menghasilkan U = 2.763.969,50 dengan p-value < 0,05, sehingga hipotesis nol ditolak. Hasil ini menunjukkan bahwa terdapat perbedaan yang signifikan pada waktu penyelesaian issue antara tahun 2025 dan 2026. Hasil tersebut juga dikonfirmasi oleh Welch's t-test dengan t = 14,97 dan p-value < 0,05.
+
+5. Peningkatan Responsivitas Pengelolaan Issue
+Rata-rata waktu penyelesaian issue menurun dari 27,6 hari pada tahun 2025 menjadi 8,3 hari pada tahun 2026, atau berkurang sekitar 19,3 hari. Nilai Cohen's d = 0,4257 menunjukkan bahwa perbedaan ini memiliki dampak praktis yang tergolong sedang (medium effect size). Temuan ini mengindikasikan peningkatan responsivitas tim pemelihara repository dalam menangani issue.
+
+6. Probabilitas Issue Membutuhkan Lebih dari 30 Hari
+Melalui simulasi Monte Carlo sebanyak 50.000 percobaan, diperoleh estimasi probabilitas sebesar 16,42% bahwa sebuah issue membutuhkan waktu lebih dari 30 hari untuk ditutup. Dengan kata lain, sebagian besar issue dapat diselesaikan dalam waktu kurang dari 30 hari, namun masih terdapat sebagian issue yang memerlukan waktu penanganan lebih lama karena tingkat kompleksitas yang lebih tinggi.
+
+7. Kondisi Repository Secara Keseluruhan
+Secara keseluruhan, repository pandas-dev/pandas menunjukkan kondisi yang sehat dan aktif. Tingkat keberhasilan merge pull request yang cukup tinggi, aktivitas diskusi issue yang konsisten, penurunan signifikan waktu penyelesaian issue, serta probabilitas rendah terhadap issue yang berlarut-larut menunjukkan bahwa proses pengelolaan kontribusi dan pemeliharaan proyek berjalan dengan baik.
 
 ## Cara Menjalankan
 
