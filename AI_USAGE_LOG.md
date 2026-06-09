@@ -59,3 +59,4 @@
 
 
 # Group Reflection
+Proyek Statistical Audit terhadap repository pandas-dev/pandas memberikan pengalaman dalam menerapkan konsep statistik pada data nyata GitHub, mulai dari parameter estimation, confidence interval, hypothesis testing, hingga Monte Carlo simulation. Selain meningkatkan pemahaman tentang analisis data dan penggunaan Python, proyek ini juga mengajarkan pentingnya kolaborasi tim, pengelolaan repository dengan Git/GitHub, serta bagaimana data issue dan pull request dapat digunakan untuk mengevaluasi kesehatan dan aktivitas sebuah proyek open-source.
