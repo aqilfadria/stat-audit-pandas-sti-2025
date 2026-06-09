@@ -7,7 +7,7 @@
 | Ahmad Aqil Fadria               | Data Engineer       | ChatGPT |          55%        |              No             |
 | Nasya Putri Salsabila           | Estimation Analyst  | Claude  |          50%        |              No             |
 | Muhammad Hanief Inayatur Rahman | Inference Analyst   |         |                     |                             |
-| Muhammad Rizqi Hazami           | Hypothesis Analyst  | Claude  |          55%        |              No             |
+| Muhammad Rizqi Hazami           | Hypothesis Analyst  | ChatGPT |          55%        |              No             |
 | Krishna Dhikha Pratama          | Computation Analyst |         |                     |                             |
 
 
@@ -43,9 +43,9 @@
 
 | No | Tugas | Alat AI | Prompt Singkat | Cara Output Digunakan |
 | -- | ----- | ------- | -------------- | --------------------- |
-| 1  |       |         |                |                       |
-| 2  |       |         |                |                       |
-| 3  |       |         |                |                       |
+| 1  |Menentukan metode inferensi statistik yang sesuai untuk data proyek|ChatGPT|Metode inferensi statistik apa yang cocok untuk membandingkan dua kelompok data?|digunakan sebagai referensi untuk memilih uji statistik|
+| 2  |Menjelaskan interpretasi hasil uji hipotesi|ChatGPT| Jelasin cara baca p value dan keputusan H0 pada uji hipotesis|digunakan untuk menyusun interpretasi hasil pada laporan dan presentasi|
+| 3  |Membantu menyusun narasi kesimpulan analisis inferensi|ChatGPT| contoh kesimpulan analisis inferensi statistik | referensi penulisan bagian kesimpulan, kemudian disesuaikan dengan hasil analisis proyek|
 
 ---
 
