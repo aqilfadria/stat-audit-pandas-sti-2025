@@ -7,7 +7,7 @@
 | Ahmad Aqil Fadria               | Data Engineer       | ChatGPT |          55%        |              No             |
 | Nasya Putri Salsabila           | Estimation Analyst  | Claude  |          50%        |              No             |
 | Muhammad Hanief Inayatur Rahman | Inference Analyst   |         |                     |                             |
-| Muhammad Rizqi Hazami           | Hypothesis Analyst  |         |                     |                             |
+| Muhammad Rizqi Hazami           | Hypothesis Analyst  | Claude  |          55%        |              No             |
 | Krishna Dhikha Pratama          | Computation Analyst |         |                     |                             |
 
 
