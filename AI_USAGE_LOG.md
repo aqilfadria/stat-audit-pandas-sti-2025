@@ -8,7 +8,7 @@
 | Nasya Putri Salsabila           | Estimation Analyst  | Claude  |          50%        |              No             |
 | Muhammad Hanief Inayatur Rahman | Inference Analyst   |         |                     |                             |
 | Muhammad Rizqi Hazami           | Hypothesis Analyst  | ChatGPT |          55%        |              No             |
-| Krishna Dhikha Pratama          | Computation Analyst |         |                     |                             |
+| Krishna Dhikha Pratama          | Computation Analyst |Perplexity         |          75%           |              No               |
 
 
 ## Member A - Ahmad Aqil Fadria - Data Engineer
