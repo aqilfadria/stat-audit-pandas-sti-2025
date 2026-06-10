@@ -33,9 +33,9 @@
 
 | No | Tugas | Alat AI | Prompt Singkat | Cara Output Digunakan |
 | -- | ----- | ------- | -------------- | --------------------- |
-| 1  |       |         |                |                       |
-| 2  |       |         |                |                       |
-| 3  |       |         |                |                       |
+| 1  | Struktur & implementasi notebook 03_inference (CI Wald, Wilson, Poisson, Credible Interval)| Claude  |Bantu saya jelaskan apa itutugas Inference Analyst dan cara implementasi kode cell ke VSCode|Digunakan sebagai dasar notebook, lalu dipahami & disesuaikan dengan struktur project|
+| 2  |Penjelasan konsep & rumus CI Frequentist vs Bayesian Credible Interval| Claude  |elaskan line per line untuk kodeserta rumus - rumusnya|Digunakan untuk memahami teori, ditulis ulang dengan pemahaman sendiri|
+| 3  |Debugging error import src/inference.py & path di VSCode | Claude  |requirements tidak ketemu / error import                | Diterapkan untuk memperbaiki environment di laptop|
 
 ---
 
