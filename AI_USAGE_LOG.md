@@ -53,9 +53,9 @@
 
 | No | Tugas | Alat AI | Prompt Singkat | Cara Output Digunakan |
 | -- | ----- | ------- | -------------- | --------------------- |
-| 1  |       |         |                |                       |
-| 2  |       |         |                |                       |
-| 3  |       |         |                |                       |
+| 1  |Memberikan overview materi tentang Monte Carlo simulation, Bloom Filter dan MCMC       |Perplexity         |Boleh tolong jabarkan materi tentang....                |Digunakan untuk memahami materi tugas yang dikerjakan secara teori                       |
+| 2  |Struktur Module dan Notebook Simulation       |Perplexity         |Dari hasil yang sudah dikerjakan teman kelompok saya, bantu untuk jelaskan serta step by step...                |Digunakan untuk menyusun isi dan interpretasi di folder src dan notebook                       |
+| 3  |Membuat grafik berdasarkan hasil yang sudah dibuat di notebook       |Perplexity         |Apakah dari hasil kode dan interpretasinya diatas ada yang bisa ditampilkan dalam bentuk grafik?                |Output digunakan untuk menampilkan grafik sebagai penunjang visual dari isi notebook                       |
 
 
 # Group Reflection
